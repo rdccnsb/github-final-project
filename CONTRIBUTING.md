@@ -1,4 +1,4 @@
-# Contributing to Deeplearning4j
+# Contributing to github-final-project
 
 Thanks for your interest in this project. Our goal is to test git.
 
